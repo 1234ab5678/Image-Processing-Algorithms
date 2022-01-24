@@ -1,2 +1,2 @@
-# Image-Processing-Algorithms
-Image Processing Algorithms Based on Python
+# RANSAC-Algorithms
+使用RANSAC算法在一堆散点中找到一条拟合直线
